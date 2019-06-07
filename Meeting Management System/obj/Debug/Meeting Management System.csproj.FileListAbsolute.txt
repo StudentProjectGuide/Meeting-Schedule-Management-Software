@@ -1,0 +1,14 @@
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Meeting Management System.exe.config
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Meeting Management System.exe
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Meeting Management System.pdb
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting Management System.csprojResolveAssemblyReference.cache
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting_Management_System.Properties.Resources.resources
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting Management System.csproj.GenerateResource.Cache
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting Management System.exe
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting Management System.pdb
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting_Management_System.LoginForm.resources
+c:\users\lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\obj\Debug\Meeting_Management_System.Dashboard.resources
+C:\Users\Lordwiz\Documents\Visual Studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lordwiz\Documents\Visual Studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Lordwiz\Documents\Visual Studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Lordwiz\documents\visual studio 2013\Projects\Meeting Management System\Meeting Management System\bin\Debug\MeetingManagementSystem_db.mdb
