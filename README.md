@@ -4,4 +4,4 @@ Planning for meeting, managing it and conducting it strategically to achieve a s
 This project developed using C#.NET and Microsoft Access Driver
 
 For more information and updates about this project:
-https://www.studentprojectguide.com/c-net-projects/meeting-management-system/
+https://www.studentprojects.live/studentprojectreport/projectreport/meeting-management-system/
